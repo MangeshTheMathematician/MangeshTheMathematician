@@ -6,20 +6,20 @@ Architecting and deploying an integrated suite of quantitative finance dashboard
 The following engines are currently deployed and accessible:
 
 ```text
-                  Hessian QFE Suite
-                          |
-                          ▼
-            Theory & Documentation Core:
-            [ book_on_financial-markets-core ]
-                          |
-      +-------------------+-------------------+
-      ▼                   ▼                   ▼
-Engine 1: Derivatives   Engine 2: Portfolio   Engine 3: Fixed Income
-& Arbitrage             Optimization & Friction & Yield Dynamics
-
-• Hessian-AI-Dashboard  • weight-turnover-    • yield_bivariate_pulse
-• spot_forward_arbitrage  friction-sharpe-    • The-Time-Value-Visualizer
-                          visualizer
+                           Hessian QFE Suite
+                                  |
+                                  ▼
+                    Theory & Documentation Core:
+                  [ book_on_financial-markets-core ]
+                                  |
+          +-----------------------+-----------------------+
+          ▼                       ▼                       ▼
+    Engine 1: Derivatives   Engine 2: Portfolio     Engine 3: Fixed Income
+    & Arbitrage             Optimization & Friction & Yield Dynamics
+    
+    • Hessian-AI-Dashboard  • weight-turnover-      • yield_bivariate_pulse
+    • spot_forward_arbitrage  friction-sharpe-      • The-Time-Value-Visualizer
+                              visualizer
 ```
 
 ### Phase 2: Architecture Master Plan (Target Completion: September 1, 2026)
