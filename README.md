@@ -1,16 +1,19 @@
-## Hi there 👋
+# Quantitative Strategist & Financial Engineer
 
-<!--
-**MangeshTheMathematician/MangeshTheMathematician** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Architected and deployed an integrated suite of quantitative finance dashboards in Python (Streamlit) covering derivatives pricing, portfolio friction optimization, and fixed income yield dynamics.
 
-Here are some ideas to get you started:
+### Hessian QFE Suite Architecture
+```text
+                               Hessian QFE Suite
+                                      │
+                                      ▼
+                        Theory & Documentation Core: 
+                     [ book_on_financial-markets-core ]
+                                      │
+      ┌───────────────────────────────┼───────────────────────────────┐
+      ▼                               ▼                               ▼
+Engine 1: Derivatives           Engine 2: Portfolio           Engine 3: Fixed Income
+& Arbitrage                     Optimization & Friction       & Yield Dynamics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Hessian-AI-Dashboard          • weight-turnover-friction-   • yield_bivariate_pulse
+• spot_forward_arbitrage          sharpe-visualizer           • The-Time-Value-Visualizer
