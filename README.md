@@ -7,7 +7,9 @@ Architecting and deploying an integrated suite of quantitative finance dashboard
 My quantitative research and development workspace — where I build, test and document financial-engineering models, analytical tools and market applications.
 
 <p align="center">
-  <img src="quant-research-workspace.jpg" width="700">
+  <img src="quant-research-workspace.png"
+       width="750"
+       alt="Quantitative research and financial engineering workspace">
 </p>
 
 ### Phase 1: Current Production (Live Repositories)
