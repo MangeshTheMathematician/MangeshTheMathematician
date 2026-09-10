@@ -2,7 +2,16 @@
 
 Architecting and deploying an integrated suite of quantitative finance dashboards in Python (Streamlit) covering derivatives pricing, portfolio friction optimization, and fixed income yield dynamics.
 
+## Behind the Models
+
+My quantitative research and development workspace — where I build, test and document financial-engineering models, analytical tools and market applications.
+
+<p align="center">
+  <img src="quant-research-workspace.jpg" width="700">
+</p>
+
 ### Phase 1: Current Production (Live Repositories)
+
 The following engines are currently deployed and accessible:
 
 ```text
